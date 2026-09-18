@@ -1,0 +1,1 @@
+function mesaj(){alert('Merhaba, siteye hoş geldin!');}
